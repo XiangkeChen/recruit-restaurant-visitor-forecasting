@@ -15,3 +15,28 @@ In this competition, you're challenged to use reservation and visitation data to
 
 The process overview is like the below chart
 ![](https://hackernoon.com/hn-images/1*oU3LAye3LxFcHg0UePmbSA.png)
+
+
+
+
+
+------
+
+# Data sources
+
+![image-20200201213440994](README.assets/image-20200201213440994.png)
+
+
+
+# Factor Considered
+
+![image-20200201213514847](README.assets/image-20200201213514847.png)
+
+
+
+# Models
+
+![image-20200201213531243](README.assets/image-20200201213531243.png)
+
+
+
